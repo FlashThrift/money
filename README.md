@@ -1,4 +1,4 @@
-# RubyMoney - Money
+# RubyMoney - Money (Compatible with Ruby 1.8)
 
 [![Build Status](http://travis-ci.org/RubyMoney/money.png)](http://travis-ci.org/RubyMoney/money)
 [![Dependency Status](https://gemnasium.com/RubyMoney/money.png)](https://gemnasium.com/RubyMoney/money)
